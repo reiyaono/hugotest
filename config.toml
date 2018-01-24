@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-identity-theme"
+baseurl = "https://reiyaono.github.io/hugotest"
+canonifyurls = true
